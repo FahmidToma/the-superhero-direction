@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Rich Moore",
+    "Role": "Director",
+    "Age": 58,
+    "Country": "USA",
+    "salary": 90000,
+    "image": "https://www.rotoscopers.com/wp-content/uploads/2019/04/Rich_Moore_photo.jpg"
+  },
+  {
+    "name": "Jared Bush",
+    "Role": "Co-director",
+    "Age": 47,
+    "Country": "USA",
+    "salary": 80000,
+    "image": "http://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p800980/JaredBush.jpg"
+  },
+  {
+    "name": "Phil Johnston",
+    "Role": "Story-writter",
+    "Age": 49,
+    "Country": "USA",
+    "salary": 95000,
+    "image": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/66/6666faee-6d79-5ae0-a3e5-c5f378c0a8de/5ca205b485a44.image.jpg?resize=1200%2C1015"
+  },
+  {
+    "name": "Michael Giacchino",
+    "Role": "Music-director",
+    "Age": 53,
+    "Country": "USA",
+    "salary": 90000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Giacchino_Sep_2017.jpg"
+  },
+  {
+    "name": "Jason Bateman",
+    "Role": "Actor",
+    "Age": 52,
+    "Country": "USA",
+    "salary": 87000,
+    "image": "https://www.biography.com/.image/t_share/MTgwMTA2NTAwNzY3NzUzMzM4/gettyimages-179699345.jpg"
+  },
+  {
+    "name": "Idris Elba",
+    "Role": "Actor",
+    "Age": 49,
+    "Country": "UK",
+    "salary": 100000,
+    "image": "https://i.guim.co.uk/img/media/dd569372732241ea5b8075f50bcd98f77f192f42/31_208_2505_1503/master/2505.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5701270e1f2d103e8aa4e1e39afb3bac"
+  },
+  {
+    "name": "Jk Simmons",
+    "Role": "Actor",
+    "Age": 66,
+    "Country": "USA",
+    "salary": 95000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/JK_Simmons_2009.jpg"
+  },
+  {
+    "name": "Shakira",
+    "Role": "Actress",
+    "Age": 44,
+    "Country": "Colombia",
+    "salary": 70000,
+    "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMTgyMTgzOTk3MDg4ODkw/gettyimages-483195065.jpg"
+  },
+  {
+    "name": "Jenny Slate",
+    "Role": "Actress",
+    "Age": 39,
+    "Country": "USA",
+    "salary": 80000,
+    "image": "https://static.onecms.io/wp-content/uploads/sites/14/2019/10/22/102219-jenny-slate-lead-2000.jpg"
+  },
+  {
+    "name": "Byron Howard",
+    "Role": "Actor",
+    "Age": 52,
+    "Country": "Japan",
+    "salary": 90000,
+    "image": "https://www.themoviedb.org/t/p/original/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg"
+  },
+  {
+    "name": "Gennifer Goodwin",
+    "Role": "Actress",
+    "Age": 43,
+    "Country": "USA",
+    "salary": 92000,
+    "image": "https://superstarsbio.com/wp-content/uploads/2019/09/Ginnifer-Goodwin-facts.jpg"
+  }
+]

@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.player-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.total-container{
+    box-shadow: 3px 2px 2px 2px plum;
+    border-radius: 3px;
+    color:rgb(163, 45, 179);
+    height: 350px;
+    margin-top: 30px;
+}
+
