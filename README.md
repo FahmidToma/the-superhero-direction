@@ -1,6 +1,6 @@
 # Zootopia Team
 
-  Live site: <a src='https://eloquent-hermann-12eeb3.netlify.app/'>Click here</a>
+  Live site: <a href='https://eloquent-hermann-12eeb3.netlify.app/'>Click here</a>
 
   ### About My Website
 
